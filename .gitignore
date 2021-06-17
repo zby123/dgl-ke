@@ -134,6 +134,8 @@ examples/pytorch/.DS_Store
 examples/.DS_Store
 examples/pytorch/generative_graph/*.p
 .DS_Store
+python/ckpts/
+python/data/
 
 # data directory
 _download
